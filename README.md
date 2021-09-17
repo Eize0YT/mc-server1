@@ -10,7 +10,7 @@ Translated to English & Updated by Ren232.
 - User deletion<br>
 - Easy to install<br>
 - And more!
-
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FEize0YT%2Fmc-server1&template=https%3A%2F%2Fgithub.com%2FEize0YT%2Fmc-server1
 
 <h1> Requirements </h1>
 - A Heroku Account (https://dashboard.heroku.com/)
