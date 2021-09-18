@@ -33,7 +33,7 @@
   },
   "buildpacks": [
     {
-      "url": "heroku/java"
+      "url": "heroku/jdk"
     },
     {
       "url": "https://github.com/Eize0YT/mc-server1"
